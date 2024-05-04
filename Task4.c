@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_SIZE 50
+#define MAX_SIZE 51
 
 int main () {
     int N, M;
